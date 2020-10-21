@@ -1,0 +1,33 @@
+body {
+  background-color: #c0c536;
+  font-family: Verdana;
+}
+
+article {
+  float: left;
+  width: 50%
+}
+
+h1 {
+  font-family: georgia, "Times New Roman", serif;
+}
+
+h2 {
+  font-family: georgia, "Times New Roman", serif;
+}
+
+footer {
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a {
+  color: green;
+}
